@@ -16,4 +16,4 @@ pip install -r requirements.txt
 
 ---
 ## Run training
-Python train_and_predict.py
+Python Multitask_deep_learning.py
