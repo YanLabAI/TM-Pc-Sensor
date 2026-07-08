@@ -1,4 +1,4 @@
-# Surface Adsorption Energy and Sensitivity Prediction of gas-TM/PC systems
+# DFT-driven multitask deep learning for sulfur gas sensing and removal by transition metal phthalocyanines
 
 ## Overview
 This repository focuses on predicting gas adsorption energy and sensitivity on TM/PC surfaces using DFT-driven and deep learning approaches.  
